@@ -13,7 +13,8 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
-    display: inline-block;
+    display: flex;
+    
 }
 
 .header h1 {
@@ -31,16 +32,19 @@ body {
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     font-size: 20px;
+    justify-content: end;
+    
 }
 
 .header div ul {
     list-style-type: none;
-    float: inline-end;
+    float: right;
+  
 }
 
 .header div ul li {
     display: inline-block;
-    margin-left: 23px; c
+    margin-left: 25px;
 }
 
 a {
