@@ -17,7 +17,6 @@ header {
 
 header h1 {
     display: inline-block;
-    font-size: 48px;
 }
 
 header h1 .seo {
@@ -91,15 +90,6 @@ p {
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
-#engine-optimization{
-
-}
-#media-marketing{
-
-}
-#reputation-management {
-
 }
 
 .benefits {
