@@ -7,10 +7,11 @@ This was the challenge assigement #1. The CSS style sheet was updated to be more
 N/A
 
 ## Access
-Follow link --> https://nevin-lewis.github.io/UT-Bootcamp-Challenge-1/
+Follow link --> https://nevin-lewis.github.io/My_portfolio/
 ## Photo of my edits
 
-![_C__Users_Owner_bootcamp_class-challenge-assignments_UT-Bootcamp-Challenge-1_index html (1)](https://user-images.githubusercontent.com/64855834/190940087-ce72506f-b0b7-42cb-8e90-80c40af7d594.png)
+![nevin-lewis github io_My_portfolio_Assets_index2 html](https://user-images.githubusercontent.com/64855834/192432384-fce28556-5e9e-46d2-b601-1564af737401.png)
+
 
 ## License 
 MIT. Reference in the repo
